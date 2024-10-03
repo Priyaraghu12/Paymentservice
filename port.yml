@@ -8,4 +8,5 @@ properties:
   language: python
   deployment_zone: private
   net_version: net9.1
-  
+  relations:
+  calcserv: priya_calculation_service
