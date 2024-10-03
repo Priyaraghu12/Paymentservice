@@ -7,6 +7,4 @@ properties:
   workload_short: scim
   language: python
   deployment_zone: private
-  net_version: net8.0
-   relations:
-  calcserv: core_process_service
+  net_version: net9.0
