@@ -7,7 +7,7 @@ properties:
   workload_short: scim
   language: python
   deployment_zone: private
-  net_version: net9.1
+  net_version: net9.2
   readme: file://./README.md
   relations:
   calcserv: priya_calculation_service
