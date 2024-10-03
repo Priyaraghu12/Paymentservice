@@ -8,3 +8,6 @@ properties:
   language: python
   deployment_zone: private
   net_version: net9.0
+  relations:
+  calcserv: core_processing_service
+  
