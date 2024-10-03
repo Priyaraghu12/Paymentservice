@@ -5,7 +5,7 @@ team:
 blueprint: service
 properties:
   workload_short: scim
-  language: python
+  language: csharp
   deployment_zone: private
   net_version: net9.2
   readme: file://./README.md
