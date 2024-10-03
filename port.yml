@@ -7,7 +7,7 @@ properties:
   workload_short: scim
   language: csharp
   deployment_zone: private
-  net_version: net9.2
+  net_version: net8.2
   readme: file://./README.md
   relations:
   calcserv: priya_calculation_service
