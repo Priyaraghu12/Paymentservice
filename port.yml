@@ -8,6 +8,5 @@ properties:
   language: python
   deployment_zone: private
   net_version: net8.0
-   readme: file://README.md
    relations:
   calcserv: core_process_service
