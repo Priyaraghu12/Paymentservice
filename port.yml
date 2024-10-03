@@ -11,4 +11,3 @@ properties:
    readme: file://README.md
    relations:
   calcserv: core_process_service
-  ci_version: templates-apps-ci-cd-0.1.87
