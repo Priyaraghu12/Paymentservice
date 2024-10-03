@@ -5,7 +5,7 @@ team:
 blueprint: service
 properties:
   workload_short: scim
-  language: java
+  language: python
   deployment_zone: private
   net_version: net9.1
   
