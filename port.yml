@@ -1,0 +1,11 @@
+identifier: Paymentservice
+title: Paymentservice
+team: 
+  - service_team
+blueprint: service
+properties:
+  workload_short: scin
+  readme_md: file://README.md
+  language: csharp
+  deployment_zone: private
+  net_version: net8.0
