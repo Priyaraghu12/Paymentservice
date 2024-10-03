@@ -7,5 +7,5 @@ properties:
   workload_short: scim
   language: java
   deployment_zone: private
-  net_version: net9.0
+  net_version: net9.1
   
